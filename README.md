@@ -40,6 +40,10 @@ SQL注入辅助判断工具，基于xiasql二开，原版链接：https://github
 
 ## 更新记录
 
+(20260108): XG_SQL V1.5.4
+
+1、更新sort大小写bug
+
 (20260106): XG_SQL V1.5.3
 
 1、更新两个小bug
